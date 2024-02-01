@@ -1,0 +1,6 @@
+Test case 'test_add_item' passed
+Test case 'test_another_case' passed
+Test case 'test_find_item' passed with result: 20
+Test case 'test_find_item_not_present' passed with result: -1
+Test case 'test_special_data_table' passed with result: 20
+Test case 'test_special_data_table' passed with exception: Number of slots cannot be 0.
